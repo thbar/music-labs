@@ -1,0 +1,29 @@
+h2. What's here ?
+
+Unstable code pushed as I try out various music-related things.
+
+h2. Libraries and software
+
+* "Midiator":http://rubyforge.org/projects/midiator is used for Midi OUT
+* "SimpleSynth":http://notahat.com/simplesynth (Mac OS X only) is a synth with midi in able to use the DLS samples or any SoundFont
+
+* "Midilib":http://rubyforge.org/projects/midilib is used to parse some Midi files
+
+h2. SoundFonts
+
+SoundFonts are packaged bank of samples in a standardized format.
+
+I'm using these here:
+* Titanic SoundFont (link missing)
+* "TR 808 drum":http://www.hammersound.net/hs_soundfonts.html
+
+h2. Links to investigate
+
+* "Arduino":http://arduino.cc/ - hardware that could be handy
+* "Adrumo":http://code.google.com/p/ardrumo/ - uses Arduino for drums stuff
+* Cosy
+* ...
+
+h2. Midi clips
+
+* "Drums patterns":http://pianoweb.free.fr/midifiles-patternbatterie2.html
